@@ -1,0 +1,22 @@
+body{background-color:black;color:white;}
+div.i{float:left;}
+div.j{float:left;height:30px;width:1200px;background-color:maroon; border:2px solid black;}
+div.k{float:left;height:35px;width:1060px;background-color:green;padding-bottom:20px;font-size:13pt; border:2px solid black;}
+form{float:right;}
+div.n{float:left;font-size:20pt;line-height:60px;height:1000px;width:290px;background-color:brown;
+		clear: both;}
+div.m{background-image:url("brur.jpg");background-repeat: repeat-x;}
+a:link{text-decoration:none;color:black;}
+a:hover{text-decoration:underline;color:blue;font-size:120%;}
+a:acite{color:yellow;}
+a:visited{text-decoration:none;color:black;}
+div.s{float:right-side;height:700px;width:1300px;}
+h3{text-align:center;font-size:35pt;margin-top:100px;}
+p.s1{color:tan;}
+p.s2{text-align:right;color:blue;}
+div.f{float:left;height:70px;width:1300px;text-align:center;color:tan;}
+img.o{border-radius:20px 15px 20px 15px;}
+div.fg{float:right-side;clear:both;}
+img.t{border-radius:2px solid red;}
+img.t{border-radius:12px 10px 12px 10px;border:2px solid green;}
+form{color:blue; font-size:15pt;}

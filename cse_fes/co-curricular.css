@@ -1,0 +1,8 @@
+body{background-color:black;color:tan;}
+div.i{float:left;}
+div.j{float:left;height:30px;width:1100px;background-color:maroon; border:2px solid black;}
+div.k{float:left;height:30px;width:1229px;background-color:green;padding-bottom:23px;font-size:13pt; border:2px solid black;}
+div.m{background-image:url("brur.jpg");background-repeat: repeat-x;}
+h1.one{background-color:gray;color:brown; margin-top:100px;}
+h2{color:white;}
+p.f{text-align:center;}
